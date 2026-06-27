@@ -19,9 +19,13 @@
 ## Featured Projects
 
 🩺 Melanoma Detection Using Deep Learning (Computer Vision & Machine Learning)
+
 🛍️ Retail Customer Spending Analysis (Data Analytics & Machine Learning)
+
 💊 Drug Review Sentiment Analysis (NLP & Deep Learning)
+
 🏥 Clinical Text Mining & Named Entity Recognition (Biomedical NLP)
+
 📰 News Topic Modeling & Trend Analysis (Unsupervised Learning & NLP)
 
 📫 Feel free to connect with me on LinkedIn and explore my repositories!

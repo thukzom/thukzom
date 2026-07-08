@@ -1,28 +1,16 @@
-# Hi, I'm Ugyen Thukzom👋
+### Hi, I'm Ugyen 👋
 
-🎓 Honours Bachelor of Data Science and Analytics graduate from Seneca Polytechnic (GPA: 3.9)
+🎓 Honours B.Sc., Data Science & Analytics — Seneca Polytechnic (GPA 3.9, grad June 2026)
+📊 Data Analyst / Data Scientist focused on turning messy data into decisions — SQL, Python, ML, and dashboards
+🔍 Especially interested in problems with severe class imbalance and real-world deployment, not just notebook accuracy
 
-💡 I enjoy having something to look at and discovering the deeper meaning within. I am fascinated by patterns, hidden relationships, and the stories data can tell, and I find that this aligns perfectly with what I have learned throughout my studies. I strive to transform curiosity into meaningful insights and impactful solutions.
+### Technical Skills
+`Python` `SQL` `Scikit-learn` `PyTorch` `Pandas/NumPy` `Power BI` `Tableau` `Machine Learning` `NLP`
 
-📊 Passionate about data science, machine learning, and building practical AI solutions that solve real-world problems.
+### Featured Projects
 
-## Technical Skills
-- Python
-- SQL
-- Machine Learning
-- Scikit-learn
-- Pandas & NumPy
-- Tableau
-- Excel
-- Data Visualization
+🩺 **[Melanoma Detection](https://github.com/thukzom/melanoma-detection-deep-learning)** — ResNet18 + Logistic Regression on 33K+ images, 0.846 ROC-AUC, deployed as a live Gradio app
+💊 **[Drug Review Sentiment Analysis](https://github.com/thukzom/drug-review-sentiment-analysis)** — TF-IDF, VADER, and BioClinicalBERT on patient drug reviews
+🛍️ **[Retail Customer Spending Analysis](https://github.com/thukzom/retail-customer-spending-analysis)** — Regression, classification, and clustering on 300K+ transaction records
 
-## Featured Projects
-
-🩺 Melanoma Detection Using Deep Learning (Computer Vision & Machine Learning)
-
-🛍️ Retail Customer Spending Analysis (Data Analytics & Machine Learning)
-
-💊 Drug Review Sentiment Analysis (NLP & Deep Learning)
-
-
-📫 Feel free to connect with me on LinkedIn and explore my repositories!
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/ugyen-thukzom-774263263)
